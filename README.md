@@ -6,6 +6,8 @@
 
 **Answer:** Yes. Late orders average 2.6 stars, against 4.2 for on-time orders. Ratings fall as delivery takes longer, from 4.4 stars at 0–7 days to 3.0 past 21 days.
 
+![Dashboard](Dashboard.png)
+
 ## Key findings
 - Late orders average 2.6 stars vs. 4.2 for on-time orders.
 - Ratings fall as delivery takes longer: 4.4 at 0–7 days, 3.0 past 21 days.
